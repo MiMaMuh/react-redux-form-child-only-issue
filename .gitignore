@@ -1,0 +1,9 @@
+# Mehr dazu: http://blog.bitfluent.com/post/173740409/ignoring-icon-in-gitignore
+.DS_Store
+.VolumeIcon.icns
+.fseventsd
+.meteor
+
+.sass-cache
+node_modules
+build
